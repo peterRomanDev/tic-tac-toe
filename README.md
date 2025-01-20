@@ -9,6 +9,7 @@
 * [Code](#code)
 * [Feedback](#feedback)
 * [Author](#author)
+* [License](#license)
 
 ## Description
 
@@ -117,3 +118,7 @@ This project is created and maintained by me, Peter Roman.
 Connect with me:
 * [GitHub](https://github.com/peterRomanDev)
 * [LinkedIn](https://www.linkedin.com/in/proman2/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
