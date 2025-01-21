@@ -17,10 +17,9 @@ A classic game of Tic Tac Toe recreated for the browser in JavaScript. This game
 
 Good luck and have fun!
 
-
 ## How To Start The Game
 
-To start playing Tic Tac Toe, all you have to do is to click on this link: <https://peterroman.codes/tic-tac-toe>.
+To start playing Tic Tac Toe, all you have to do is to clone the repository by running `git clone https://github.com/peterRomanDev/tic-tac-toe.git` and open the `index.html` file in the browser.
 
 In the main menu, each player can choose a name which is referenced throughout the game to see whose turn it is, and a sign, which can be placed in the grid. Click the "Start Game" button once the information is filled.
 
@@ -31,6 +30,7 @@ When the game is over, there is a possiblity to play again, reset the score for 
 ## Code
 
 Technologies used:
+
 * HTML
 * Bootstrap
 * JavaScript
@@ -109,7 +109,7 @@ Future features:
 
 In case you would like to provide feedback on this project, feel free to contact me at peter.roman24[at]gmail.com.
 
-Any feedback is appreciated as I am always trying to improve my skills and work.
+Any feedback is appreciated.
 
 ## Author
 
